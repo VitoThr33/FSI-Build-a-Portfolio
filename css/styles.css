@@ -1,0 +1,30 @@
+body {
+    cursor: grabbing;
+}
+
+h1 {
+    color: rgb(7, 7, 7); 
+    text-align: center;
+
+}
+h2 {
+    color: rgb(7, 7, 7); 
+    text-align: center;
+}
+h3 {
+    color: rgb(7, 7, 7); 
+    text-align: center;
+
+}        
+
+p {
+    color: azure;
+    text-align: center;
+    background-color: black;
+    background-size: cover;
+
+
+}
+div {
+    border-radius: ;
+}
